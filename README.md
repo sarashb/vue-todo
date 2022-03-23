@@ -1,4 +1,10 @@
-# vue-todo
+# Lista de Tarefas
+Projeto desenvolvido para a criação de uma lista de tarefas em Vue.js.
+
+# Tecnologias
+- Vue.js
+- Javascript 
+- CSS
 
 ## Project setup
 ```
@@ -22,4 +28,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-todo
